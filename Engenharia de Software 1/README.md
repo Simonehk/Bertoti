@@ -17,7 +17,12 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 
 <p>
 <b>Atividade de requisitos</b><br>
-Coletar os requisitos funcionais e não funcionais de um sistema
+  Coletar os requisitos funcionais e não funcionais do sistema: <b>BuscaGeo</b>.<br>
+<p align="justify">
+  <b>Buscar artigos de geociências</b><br>
+  Um usuário, quando logado no sistema, deve ser capaz de pesquisar por artigos científicos da área de geociências. Os resultados das pesquisas devem ser apresentados em um <i>layout</i> diferenciado.
+  
+</p>
 
 </p>
 
@@ -25,12 +30,16 @@ Coletar os requisitos funcionais e não funcionais de um sistema
 <h3>🔺 Requisitos funcionais: são as tarefas ou as ações do sistema</h3>
 
 <p>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.</p>
+Realizar buscas sobre artigos de geociências, informando autor ou título. 
+Visualizar ano de publicação do artigo.
+Evidenciar métricas de qualidade da publicação.</p>
 
 <h3>🔺 Requisitos não funcionais: são as qualidades do sistema</h3>
 
 <p>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.</p>
+Abrangência de revistas.
+Usabilidade do sistema.
+</p>
 
 <h2> 📚 Atividade 3 </h2>
 
