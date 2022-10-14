@@ -15,9 +15,6 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 
 <h2> 📚 Atividade 2 </h2>
 
-<p>
-<b>Atividade de requisitos</b><br>
-  Coletar os requisitos funcionais e não funcionais de um sistema.<br>
 <p align="justify">
   <b>Catálogo de artigos em geociências</b><br>
   O usuário deve ser capaz de adicionar, remover e pesquisar por artigos científicos da área de geociências. Os resultados das pesquisas devem ser apresentados em um <i>layout</i> diferenciado.
