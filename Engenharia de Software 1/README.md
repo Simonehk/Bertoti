@@ -10,8 +10,8 @@
 
 <h3>🔺 Comentário:</h3>
 
-<p>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.</p>
+<p align="justify">
+Segundo Titus Winters, engenharia de software e programação distinguem-se em muitos aspectos - apesar de partilharem uma interface. Nesse sentido, a engenharia de software compreende a modificações ao longo do tempo, a manutenção e o desenvolvimento do sistema (englobando escala e eficiência); sendo esta última atividade inerente à programação também.</p>
 
 <h2> 📚 Atividade 2 </h2>
 
