@@ -41,7 +41,8 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 <p>
 <ul>
   <li>Abrangência de revistas;</li>
-  <li> Usabilidade do sistema.</li>
+  <li>Arquitetura MVC;</li>
+  <li> Usabilidade do sistema - interface simples e intuitiva.</li>
 </ul>
 </p>
 
