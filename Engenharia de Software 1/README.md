@@ -17,28 +17,32 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 
 <p>
 <b>Atividade de requisitos</b><br>
-  Coletar os requisitos funcionais e não funcionais do sistema: <b>BuscaGeo</b>.<br>
+  Coletar os requisitos funcionais e não funcionais de um sistema.<br>
 <p align="justify">
-  <b>Buscar artigos de geociências</b><br>
-  Um usuário, quando logado no sistema, deve ser capaz de pesquisar por artigos científicos da área de geociências. Os resultados das pesquisas devem ser apresentados em um <i>layout</i> diferenciado.
+  <b>Buscador de artigos em geociências</b><br>
+  Um usuário, quando logado no <b>BuscaGeo</b>, deve ser capaz de pesquisar por artigos científicos da área de geociências. Os resultados das pesquisas devem ser apresentados em um <i>layout</i> diferenciado.
   
 </p>
 
 </p>
 
 
-<h3>🔺 Requisitos funcionais: são as tarefas ou as ações do sistema</h3>
+<h3>🔺 Requisitos funcionais do <b>BuscaGeo</b>: são as tarefas ou as ações do sistema</h3>
 
 <p>
-Realizar buscas sobre artigos de geociências, informando autor ou título. 
-Visualizar ano de publicação do artigo.
-Evidenciar métricas de qualidade da publicação.</p>
-
-<h3>🔺 Requisitos não funcionais: são as qualidades do sistema</h3>
+<ul>
+  <li>Realizar buscas sobre artigos de geociências, informando autor ou título;</li>
+  <li>Visualizar ano de publicação do artigo;</li>
+  <li>Evidenciar métricas de qualidade da publicação.</li>
+</ul>
+</p>
+<h3>🔺 Requisitos não funcionais do <b>BuscaGeo</b>: são as qualidades do sistema</h3>
 
 <p>
-Abrangência de revistas.
-Usabilidade do sistema.
+<ul>
+  <li>Abrangência de revistas;</li>
+  <li> Usabilidade do sistema.</li>
+</ul>
 </p>
 
 <h2> 📚 Atividade 3 </h2>
