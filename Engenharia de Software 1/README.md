@@ -24,7 +24,7 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 </p>
 
 
-<h3>🔺 Requisitos funcionais: são as tarefas ou as ações do sistema</h3>
+<h3>🔺 Requisitos funcionais (tarefas ou as ações do sistema):</h3>
 
 <p>
 <ul>
@@ -33,7 +33,7 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
   <li>Evidenciar métricas de qualidade da publicação.</li>
 </ul>
 </p>
-<h3>🔺 Requisitos não funcionais: são as qualidades do sistema</h3>
+<h3>🔺 Requisitos não funcionais (qualidades do sistema):</h3>
 
 <p>
 <ul>
