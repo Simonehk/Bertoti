@@ -19,8 +19,8 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 <b>Atividade de requisitos</b><br>
   Coletar os requisitos funcionais e não funcionais de um sistema.<br>
 <p align="justify">
-  <b>Buscador de artigos em geociências</b><br>
-  Um usuário, quando logado no <b>BuscaGeo</b>, deve ser capaz de pesquisar por artigos científicos da área de geociências. Os resultados das pesquisas devem ser apresentados em um <i>layout</i> diferenciado.
+  <b>Repositório de artigos em geociências</b><br>
+  O usuário deve ser capaz de adicionar, remover e pesquisar por artigos científicos da área de geociências. Os resultados das pesquisas devem ser apresentados em um <i>layout</i> diferenciado.
   
 </p>
 
