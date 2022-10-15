@@ -9,6 +9,9 @@
 <h1 align="center">
   <img src="/IHC/Figuras/11_pos.png">
 </h1>
+<h1 align="center">
+  <img src="/IHC/Figuras/11b_pos.png">
+</h1>
 
 - [x] Diretriz 1.2 - Mídia baseada em tempo: Forneça alternativas para mídia baseada em tempo.
 
