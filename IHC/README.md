@@ -23,11 +23,18 @@
 <h1 align="center">
   <img src="/IHC/Figuras/121_pos.png">
 </h1>
-Alternativa de texto que identifica um conteúdo somente de aúdio.<br><br>
+Este exemplo mostra uma alternativa de texto que identifica um conteúdo somente de aúdio.
+<br><br>
     
 - [x] Diretriz 1.3 - Adaptável: Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
 
     🔹 1.3.2 - Sequência Significativa - Nível A: Quando a sequência na qual o conteúdo é apresentado afeta seu significado, uma sequência correta de leitura pode ser determinada programaticamente.
+ 
+<h1 align="center">
+  <img src="/IHC/Figuras/132_neg.png">
+</h1>
+Este exemplo mostra conteúdo em língua portuguesa misturado com língua japonesa.
+<br><br>
     
 - [x] Diretriz 1.4 - Distinguível: Torne mais fácil para os usuários ver e ouvir o conteúdo, incluindo a separação do primeiro plano do plano de fundo.
 
