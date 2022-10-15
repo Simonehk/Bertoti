@@ -9,10 +9,18 @@
 <h1 align="center">
   <img src="/IHC/Figuras/11_pos.png">
 </h1>
+Exemplo de alternativa de texto em Língua Brasileira de Sinais (Libras) - uma língua de modalidade gestual-visual.
+<br><br>
 <h1 align="center">
   <img src="/IHC/Figuras/11b_pos.png">
 </h1>
+Exemplo de alternativa de tradutor de texto - permite ouvir a tradução falada.
 <br><br>
+<h1 align="center">
+  <img src="/IHC/Figuras/11c_pos.png">
+</h1>
+Exemplo de acessibilidade digital - alternativas para aumentar letras e contrastes.
+<br><br><br>
 
 - [x] Diretriz 1.2 - Mídia baseada em tempo: Forneça alternativas para mídia baseada em tempo.
 
