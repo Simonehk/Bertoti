@@ -9,17 +9,17 @@
 <h1 align="center">
   <img src="/IHC/Figuras/11_pos.png">
 </h1>
-Exemplo de alternativa de texto em Língua Brasileira de Sinais (Libras) - uma língua de modalidade gestual-visual.
+<i>Exemplo de alternativa de texto em Língua Brasileira de Sinais (Libras) - uma língua de modalidade gestual-visual.</i>
 <br><br>
 <h1 align="center">
   <img src="/IHC/Figuras/11b_pos.png">
 </h1>
-Exemplo de alternativa de tradutor de texto - permite ouvir a tradução falada.
+<i>Exemplo de alternativa de tradutor de texto - permite ouvir a tradução falada.</i>
 <br><br>
 <h1 align="center">
   <img src="/IHC/Figuras/11c_pos.png">
 </h1>
-Exemplo de acessibilidade digital - alternativas para aumentar letras e contrastes.
+<i>Exemplo de acessibilidade digital - alternativas para aumentar letras e contrastes.</i>
 <br><br><br>
 
 - [x] Diretriz 1.2 - Mídia baseada em tempo: Forneça alternativas para mídia baseada em tempo.
@@ -31,8 +31,8 @@ Exemplo de acessibilidade digital - alternativas para aumentar letras e contrast
 <h1 align="center">
   <img src="/IHC/Figuras/121_pos.png">
 </h1>
-Este exemplo mostra uma alternativa de texto que identifica um conteúdo somente de aúdio.
-<br><br>
+<i>Este exemplo mostra uma alternativa de texto que identifica um conteúdo somente de aúdio.</i>
+<br><br><br>
     
 - [x] Diretriz 1.3 - Adaptável: Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
 
@@ -41,8 +41,8 @@ Este exemplo mostra uma alternativa de texto que identifica um conteúdo somente
 <h1 align="center">
   <img src="/IHC/Figuras/132_neg.png">
 </h1>
-Este exemplo mostra conteúdo em língua portuguesa misturado com língua japonesa.
-<br><br>
+<i>Este exemplo mostra conteúdo em língua portuguesa misturado com língua japonesa.</i>
+<br><br><br>
     
 - [x] Diretriz 1.4 - Distinguível: Torne mais fácil para os usuários ver e ouvir o conteúdo, incluindo a separação do primeiro plano do plano de fundo.
 
@@ -51,11 +51,12 @@ Este exemplo mostra conteúdo em língua portuguesa misturado com língua japone
 <h1 align="center">
   <img src="/IHC/Figuras/141_pos.png">
 </h1>
-Este exemplo mostra como a cor (vermelho) corrobora para transmitir uma informação.
-<br><br>   
+<i>Este exemplo mostra como a cor (vermelho) corrobora para transmitir uma informação.</i>
+<br><br><br>   
     
-
-
 <h3>🔺 Princípio 2: Operável </h3>
 
+- [x] Diretriz 2.1 - Acessível por teclado: Disponibilize todas as funcionalidades a partir de um teclado.
+
+    🔹 2.1.1 - Teclado - Nível A: Toda a funcionalidade do conteúdo é operável por meio de uma interface de teclado sem exigir tempos específicos para pressionamentos de tecla individuais, exceto quando a função subjacente requer entrada que depende do caminho do movimento do usuário e não apenas dos pontos finais.
 
