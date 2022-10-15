@@ -12,12 +12,18 @@
 <h1 align="center">
   <img src="/IHC/Figuras/11b_pos.png">
 </h1>
+<br><br>
 
 - [x] Diretriz 1.2 - Mídia baseada em tempo: Forneça alternativas para mídia baseada em tempo.
 
     🔹 1.2.1 - Somente áudio e somente vídeo (pré-gravado) - Nível A: Para mídia somente áudio pré-gravada e somente vídeo pré-gravado, o seguinte é verdadeiro, exceto quando o áudio ou vídeo for uma alternativa de mídia para texto e estiver claramente rotulado como tal:<br><br>
     a) Somente áudio pré-gravado: é fornecida uma alternativa para mídia baseada em tempo que apresenta informações equivalentes para conteúdo somente áudio pré-gravado.<br>
     b) Somente vídeo pré-gravado: é fornecida uma alternativa para mídia baseada em tempo ou uma faixa de áudio que apresenta informações equivalentes para conteúdo somente de vídeo pré-gravado.
+    
+<h1 align="center">
+  <img src="/IHC/Figuras/121_pos.png">
+</h1>
+Alternativa de texto que identifica um conteúdo somente de aúdio.<br><br>
     
 - [x] Diretriz 1.3 - Adaptável: Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
 
