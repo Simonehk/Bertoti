@@ -47,8 +47,6 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 <h2> 📚 Atividade 3 </h2>
 
 <p>
-<b>Atividade de projeto: Diagrama de Classes UML</b><br>
-
 <h1 align="center">
   <img src="diagramaUML.png">
 </h1>
