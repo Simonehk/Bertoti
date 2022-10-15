@@ -28,7 +28,8 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 
 <p>
 <ul>
-  <li>Adicionar artigo inserindo nome do artigo, nome do primeiro autor e ano de publicação;</li>
+  <li>Cadastrar artigo inserindo nome do artigo, nome do primeiro autor e ano de publicação;</li>
+  <li>Cadastrar revista;</li>
   <li>Realizar buscas sobre artigos, informando autor ou título;</li>
   <li>Visualizar ano de publicação do artigo;</li>
   <li>Evidenciar métricas de qualidade da publicação.</li>
