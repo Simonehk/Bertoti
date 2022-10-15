@@ -59,4 +59,10 @@
 - [x] Diretriz 2.1 - Acessível por teclado: Disponibilize todas as funcionalidades a partir de um teclado.
 
     🔹 2.1.1 - Teclado - Nível A: Toda a funcionalidade do conteúdo é operável por meio de uma interface de teclado sem exigir tempos específicos para pressionamentos de tecla individuais, exceto quando a função subjacente requer entrada que depende do caminho do movimento do usuário e não apenas dos pontos finais.
+    
+<h1 align="center">
+  <img src="/IHC/Figuras/211_pos.png">
+</h1>
+<i>Exemplo de técnica de controle de teclado.</i>
+<br><br><br>
 
