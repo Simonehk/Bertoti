@@ -40,7 +40,11 @@ Este exemplo mostra conteúdo em língua portuguesa misturado com língua japone
 
     🔹 1.4.1 - Uso de cor - Nível A: A cor não é usada como o único meio visual de transmitir informações, indicar uma ação, solicitar uma resposta ou distinguir um elemento visual.
     
-    
+<h1 align="center">
+  <img src="/IHC/Figuras/141_pos.png">
+</h1>
+Este exemplo mostra como a cor (vermelha) corrobora para transmitir uma informação.
+<br><br>   
     
 
 
