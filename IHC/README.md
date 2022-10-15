@@ -6,6 +6,10 @@
 
 - [x] Diretriz 1.1 - Alternativas de texto: Forneça alternativas de texto para qualquer conteúdo não textual para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, braille, fala, símbolos ou linguagem mais simples.
 
+<h1 align="center">
+  <img src="/IHC/Figuras/11_pos.png">
+</h1>
+
 - [x] Diretriz 1.2 - Mídia baseada em tempo: Forneça alternativas para mídia baseada em tempo.
 
     🔹 1.2.3 - Descrição de áudio ou alternativa de mídia (pré-gravada) - Nível A: Uma alternativa para mídia baseada em tempo ou descrição de áudio do conteúdo de vídeo pré-gravado é fornecida para mídia sincronizada, exceto quando a mídia é uma alternativa de mídia para texto e está claramente rotulada como tal.
