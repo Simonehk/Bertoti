@@ -43,7 +43,7 @@ Este exemplo mostra conteúdo em língua portuguesa misturado com língua japone
 <h1 align="center">
   <img src="/IHC/Figuras/141_pos.png">
 </h1>
-Este exemplo mostra como a cor (vermelha) corrobora para transmitir uma informação.
+Este exemplo mostra como a cor (vermelho) corrobora para transmitir uma informação.
 <br><br>   
     
 
