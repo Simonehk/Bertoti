@@ -66,3 +66,13 @@
 <i>Exemplo de técnica de controle de teclado.</i>
 <br><br><br>
 
+- [x] Diretriz 2.4 - Navegável: Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão.
+
+    🔹 2.4.2 - Título da página - Nível A: As páginas da Web têm títulos que descrevem o tópico ou propósito.
+    
+<h1 align="center">
+  <img src="/IHC/Figuras/242_pos.png">
+</h1>
+<i>Exemplo de técnica de visualização da edição atual e técnica de listagem de informações de identificação mais importantes.</i>
+<br><br><br>
+
