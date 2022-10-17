@@ -117,6 +117,6 @@
 <h1 align="center">
   <img src="/IHC/Figuras/313_pos.png">
 </h1>
-<i>Exemplo de plataforma de detecção de erros ortográficos/gramáticos.</i>
+<i>Exemplo de plataforma de detecção de erros ortográficos/gramaticais.</i>
 <br><br><br>
 
