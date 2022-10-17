@@ -90,7 +90,7 @@
 <i>Exemplo de um site de planejamento de projeto que mostra diferentes colunas para as fases de uma atividade. Os usuários podem pegar e mover ícones que representam itens de planejamento para outra coluna. Quando um item for pego, ele pode ser movido para fora dos alvos de lançamento (colunas) e solto lá para cancelar a ação. O item voltará para a posição anterior.</i>
 <br><br><br>
 
-    🔹 2.5.4 - Acionamento de movimento - Nível A: A funcionalidade que pode ser operada pelo movimento do dispositivo ou pelo movimento do usuário também pode ser operada pelos componentes da interface do usuário e a resposta ao movimento pode ser desabilitada para evitar acionamento acidental, exceto quando:<br><br>
+   🔹 2.5.4 - Acionamento de movimento - Nível A: A funcionalidade que pode ser operada pelo movimento do dispositivo ou pelo movimento do usuário também pode ser operada pelos componentes da interface do usuário e a resposta ao movimento pode ser desabilitada para evitar acionamento acidental, exceto quando:<br><br> 
     a)Interface Suportada: O movimento é usado para operar a funcionalidade através de uma interface suportada por acessibilidade;<br>
     b)Essencial: O movimento é essencial para a função e isso invalidaria a atividade.
     
