@@ -100,3 +100,15 @@
 <i>Exemplo de atuação de movimento.</i>
 <br><br><br>
 
+<h3>🔺 Princípio 3: Compreensível </h3>
+
+- [x] Diretriz 3.1 - Legível: Torne o conteúdo do texto legível e compreensível.
+
+    🔹 3.1.1 - Idioma da página - Nível A: A linguagem humana padrão de cada página da Web pode ser determinada programaticamente.
+    
+<h1 align="center">
+  <img src="/IHC/Figuras/211_pos.png">
+</h1>
+<i>Exemplo de técnica de controle de teclado.</i>
+<br><br><br>
+
