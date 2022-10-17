@@ -76,3 +76,17 @@
 <i>Exemplo de técnica de visualização da edição atual e técnica de listagem de informações de identificação mais importantes.</i>
 <br><br><br>
 
+- [x] Diretriz 2.5 - Modalidades de entrada: Torne mais fácil para os usuários operar a funcionalidade por meio de várias entradas além do teclado.
+
+    🔹 2.5.2 - Cancelamento do ponteiro - Nível A: Para funcionalidades que podem ser operadas usando um único ponteiro, pelo menos um dos seguintes é verdadeiro:<br><br>
+    a)No Down-Event: O evento down do ponteiro não é usado para executar nenhuma parte da função;<br>
+    b)Abort ou Undo: A conclusão da função está no evento up, e um mecanismo está disponível para abortar a função antes da conclusão ou para desfazer a função após a conclusão;<br>
+    c)Up Reversal: O evento up reverte qualquer resultado do evento down anterior;<br>
+    d)Essencial: Completar a função no down-event é essencial.
+    
+<h1 align="center">
+  <img src="/IHC/Figuras/254_pos.png">
+</h1>
+<i>Exemplo de um site de planejamento de projeto que mostra diferentes colunas para as fases de uma atividade. Os usuários podem pegar e mover ícones que representam itens de planejamento para outra coluna. Quando um item for pego, ele pode ser movido para fora dos alvos de lançamento (colunas) e solto lá para cancelar a ação. O item voltará para a posição anterior.</i>
+<br><br><br>
+
