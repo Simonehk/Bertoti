@@ -107,8 +107,8 @@
     🔹 3.1.1 - Idioma da página - Nível A: A linguagem humana padrão de cada página da Web pode ser determinada programaticamente.
     
 <h1 align="center">
-  <img src="/IHC/Figuras/211_pos.png">
+  <img src="/IHC/Figuras/311_pos.png">
 </h1>
-<i>Exemplo de técnica de controle de teclado.</i>
+<i>Exemplo de configuração de idioma na plataforma Microsoft Teams.</i>
 <br><br><br>
 
