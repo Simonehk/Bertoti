@@ -112,11 +112,11 @@
 <i>Exemplo de configuração de idioma na plataforma Microsoft Teams.</i>
 <br><br><br>
 
-    🔹 3.1.3 - Palavras incomuns - Nível AAA: Um mecanismo está disponível para identificar definições específicas de palavras ou frases usadas de maneira incomum ou restrita, incluindo expressões idiomáticas e jargões.
+   🔹 3.1.3 - Palavras incomuns - Nível AAA: Um mecanismo está disponível para identificar definições específicas de palavras ou frases usadas de maneira incomum ou restrita, incluindo expressões idiomáticas e jargões.
     
 <h1 align="center">
-  <img src="/IHC/Figuras/311_pos.png">
+  <img src="/IHC/Figuras/313_pos.png">
 </h1>
-<i>Exemplo de configuração de idioma na plataforma Microsoft Teams.</i>
+<i>Exemplo de plataforma de detecção de erros ortográficos/gramáticos.</i>
 <br><br><br>
 
