@@ -77,12 +77,6 @@
 <br><br><br>
 
 - [x] Diretriz 2.5 - Modalidades de entrada: Torne mais fácil para os usuários operar a funcionalidade por meio de várias entradas além do teclado.
-
-    🔹 2.5.2 - Cancelamento do ponteiro - Nível A: Para funcionalidades que podem ser operadas usando um único ponteiro, pelo menos um dos seguintes é verdadeiro:<br><br>
-    a)No Down-Event: O evento down do ponteiro não é usado para executar nenhuma parte da função;<br>
-    b)Abort ou Undo: A conclusão da função está no evento up, e um mecanismo está disponível para abortar a função antes da conclusão ou para desfazer a função após a conclusão;<br>
-    c)Up Reversal: O evento up reverte qualquer resultado do evento down anterior;<br>
-    d)Essencial: Completar a função no down-event é essencial.
     
 <h1 align="center">
   <img src="/IHC/Figuras/254_pos.png">
@@ -119,4 +113,15 @@
 </h1>
 <i>Exemplo de plataforma de detecção de erros ortográficos/gramaticais.</i>
 <br><br><br>
+
+- [x] Diretriz 3.3 - Assistência de entrada: Ajude os usuários a evitar e corrigir erros.
+
+    🔹 3.3.5 - Ajuda - Nível AA: Disponibilidade de ajuda sensível ao contexto.
+    
+<h1 align="center">
+  <img src="/IHC/Figuras/311_pos.png">
+</h1>
+<i>Exemplo de um link e um site de ajuda.</i>
+<br><br><br>
+
 
