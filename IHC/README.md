@@ -124,6 +124,8 @@
 <i>Exemplo de um link e um site de ajuda.</i>
 <br><br><br>
 
+<h3>🔺 Princípio 4: Robusto </h3>
+
 - [x] Diretriz 4.1 - Compatível: Maximize a compatibilidade com agentes de usuário atuais e futuros, incluindo tecnologias assistivas.
 
     🔹 4.1.2 - Nome, Função, Valor - Nível AA: Para todos os componentes da interface do usuário (incluindo, mas não se limitando a: elementos de formulário, links e componentes gerados por scripts), o nome e a função podem ser determinados programaticamente; estados, propriedades e valores que podem ser definidos pelo usuário podem ser definidos programaticamente; e a notificação de alterações nesses itens está disponível para agentes de usuário, incluindo tecnologias assistivas.
