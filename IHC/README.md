@@ -124,4 +124,22 @@
 <i>Exemplo de um link e um site de ajuda.</i>
 <br><br><br>
 
+- [x] Diretriz 4.1 - Compatível: Maximize a compatibilidade com agentes de usuário atuais e futuros, incluindo tecnologias assistivas.
+
+    🔹 4.1.2 - Nome, Função, Valor - Nível AA: Para todos os componentes da interface do usuário (incluindo, mas não se limitando a: elementos de formulário, links e componentes gerados por scripts), o nome e a função podem ser determinados programaticamente; estados, propriedades e valores que podem ser definidos pelo usuário podem ser definidos programaticamente; e a notificação de alterações nesses itens está disponível para agentes de usuário, incluindo tecnologias assistivas.
+    
+<h1 align="center">
+  <img src="/IHC/Figuras/412_pos.png">
+</h1>
+<i>Exemplo de uma página com uma caixa pop-up com informações adicionais.</i>
+<br><br><br>
+
+    🔹 4.1.3 - Mensagens de status- Nível AA: No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programaticamente por meio de função ou propriedades, de modo que possam ser apresentadas ao usuário por tecnologias assistivas sem receber foco.
+    
+<h1 align="center">
+  <img src="/IHC/Figuras/413_pos.png">
+</h1>
+<i>Exemplo de uma companhia aérea com um aplicativo de compra de passagens online. Quando um usuário digita o nome de uma cidade no campo do formulário, um menu suspenso mostra a correspondência mais próxima da cidade na parte superior do menu e outras sugestões abaixo.</i>
+<br><br><br>
+
 
