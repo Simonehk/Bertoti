@@ -119,7 +119,7 @@
     🔹 3.3.5 - Ajuda - Nível AA: Disponibilidade de ajuda sensível ao contexto.
     
 <h1 align="center">
-  <img src="/IHC/Figuras/311_pos.png">
+  <img src="/IHC/Figuras/335_pos.png">
 </h1>
 <i>Exemplo de um link e um site de ajuda.</i>
 <br><br><br>
