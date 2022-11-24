@@ -136,12 +136,3 @@
 <i>Exemplo de uma página com uma caixa pop-up com informações adicionais.</i>
 <br><br><br>
 
-   🔹 4.1.3 - Mensagens de status- Nível AA: No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programaticamente por meio de função ou propriedades, de modo que possam ser apresentadas ao usuário por tecnologias assistivas sem receber foco.
-    
-<h1 align="center">
-  <img src="/IHC/413_pos.png">
-</h1>
-<i>Exemplo de uma companhia aérea com um aplicativo de compra de passagens online. Quando um usuário digita o nome de uma cidade no campo do formulário, um menu suspenso mostra a correspondência mais próxima da cidade na parte superior do menu e outras sugestões abaixo.</i>
-<br><br><br>
-
-
