@@ -29,18 +29,15 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 <p>
 <ul>
   <li>Cadastrar artigo inserindo nome do artigo, nome do primeiro autor e ano de publicação;</li>
-  <li>Cadastrar revista;</li>
-  <li>Realizar buscas sobre artigos, informando autor ou título;</li>
+  <li>Realizar buscas sobre artigos informando o nome do autor;</li>
   <li>Visualizar ano de publicação do artigo;</li>
-  <li>Evidenciar métricas de qualidade da publicação.</li>
 </ul>
 </p>
 <h3>🔺 Requisitos não funcionais (qualidades do sistema):</h3>
 
 <p>
 <ul>
-  <li>Abrangência de revistas;</li>
-  <li>Arquitetura MVC;</li>
+  <li>Manipulação de arquivo em formato txt;</li>
   <li> Usabilidade do sistema - interface simples e intuitiva.</li>
 </ul>
 </p>
