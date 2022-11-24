@@ -46,7 +46,7 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 
 <p>
 <h1 align="center">
-  <img src="diagramaUML4.png">
+  <img src="/Engenharia%20de%20Software%201/Figuras/ClasseUML.png">
 </h1>
 
 </p>
