@@ -57,9 +57,53 @@ Segundo Titus Winters, engenharia de software e programação distinguem-se em m
 
 </p>
 
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%201/Figuras/ClasseCatalogo.png">
+</h1>
+<i>Classe Catalogo.</i>
+<br><br>
 
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%201/Figuras/ArqReadFile.png">
+</h1>
+<i>Classe Arquivo, método readFile.</i>
+<br><br>
 
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%201/Figuras/ArqAddToFile2.png">
+</h1>
+<i>Classe Arquivo, método addToFile.</i>
+<br><br>
 
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%201/Figuras/ArqAddToFile1.png">
+</h1>
+<i>Classe Arquivo, método addToFile.</i>
+<br><br>
+
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%201/Figuras/ClassePrincipal.png">
+</h1>
+<i>Classe Principal.</i>
+<br><br>
+
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%201/Figuras/TelaMenu.png">
+</h1>
+<i>Tela Menu.</i>
+<br><br>
+
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%201/Figuras/TelaImpressaoConsole.png">
+</h1>
+<i>Impressão no console.</i>
+<br><br>
+
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%201/Figuras/TelaArquivoTxt.png">
+</h1>
+<i>Arquivo formato txt.</i>
+<br><br>
 
 </p>
 
