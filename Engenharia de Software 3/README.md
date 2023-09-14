@@ -2,15 +2,15 @@
 Engenharia de Software 3
 </h1>
 
-<p>Neste arquivo você encontrará alguns dos principais Padrões de Projeto discutidos ao longo das aulas do Prof. Juliano Bertoti.
-O material base encontra-se no site <strong> <a href="https://refactoring.guru"> REFACTORING GURU  </a></strong> 🧡💛.
-
-⚠️ Os códigos dos padrões de projeto serão exemplificados em linguagem <strong> JAVA </strong>.⚠️
+<p>Neste arquivo você encontrará alguns dos principais Padrões de Projeto discutidos ao longo das aulas do Prof. Me. Juliano Bertoti.
+O material base encontra-se no site <strong> <a href="https://refactoring.guru"> REFACTORING GURU  </a></strong> 🧡💛.</p>
+  
+<p align="center">⚠️Os códigos dos padrões de projeto serão exemplificados em linguagem <strong> JAVA </strong>.⚠️
 </p>
 
 <p align="center">
 <a href=""> Strategy </a>• <a href="
-                             "> Observer </a>• <a href=""> Composite </a> • <a href=""> Facade </a> 
+                             "> Observer </a>• <a href=""> Composite </a> • <a href=""> Facade </a> <br>
 <br>👍 <em><strong> Para cada caso apresentaremos uma tabela resumo, um diagrama UML e o respectivo código exemplo </strong> </em>👍
 </p>
 
