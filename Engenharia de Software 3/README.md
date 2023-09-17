@@ -14,13 +14,13 @@ O material base encontra-se no site <strong> <a href="https://refactoring.guru">
 </p>
 
 <h2>
-🛑 Pré-requistos
+🐱‍💻 Pré-requistos
 </h2>
 
 - [x] Conhecer a sintaxe Java
 - [x] Noção acerca do Paradigma de Programação Orientada a Objeto
 
-<h2> 📚 Conteúdo </h2>
+<h2> 🏗️ Conteúdo </h2>
 
 
 🔸 <strong> Strategy </strong><br>
