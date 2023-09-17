@@ -1,6 +1,6 @@
 <h1>Conteúdo destinado ao Prof. ScM. Giuliano Bertoti</h1>
 	
-<h2> 🚦 Guia </h2>
+<h2> 💻 Guia </h2>
 
 <p>
 🔹 Trata-se de um conteúdo em nível de graduação tecnológica <br>
@@ -9,7 +9,7 @@
 </p>    
 
 <h2>
-🛑 Disciplinas
+🗂️ Disciplinas
 </h2>
 
 
