@@ -2,7 +2,7 @@
 Engenharia de Software 3 🏗️
 </h1>
 
-<p>Neste arquivo você encontrará alguns dos principais Padrões de Projeto discutidos ao longo das aulas do Prof. ScM. Juliano Bertoti.
+<p>Neste arquivo você encontrará alguns dos principais Padrões de Projeto discutidos ao longo das aulas do Prof. ScM. Giuliano Bertoti.
 O material base encontra-se no site <strong> <a href="https://refactoring.guru"> REFACTORING GURU  </a></strong> 🆓.</p>
   
 <p align="center">⚠️Os códigos dos padrões de projeto serão exemplificados em linguagem <strong> JAVA </strong>.⚠️
