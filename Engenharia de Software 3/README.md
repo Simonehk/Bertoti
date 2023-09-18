@@ -10,7 +10,7 @@ O material base encontra-se no site <strong> <a href="https://refactoring.guru">
 
 <p align="center">
 <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/strategy"> Strategy </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/observer"> Observer </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/composite"> Composite </a> • <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/facade"> Facade </a> <br>
-<br>👍 <em><strong> Para cada caso apresentaremos uma tabela resumo, um diagrama UML e o respectivo código exemplo </strong> </em>👍
+<br>👍 <em><strong> Para cada caso apresentaremos um resumo, um diagrama UML e o respectivo código exemplo </strong> </em>👍
 </p>
 
 <h2>
