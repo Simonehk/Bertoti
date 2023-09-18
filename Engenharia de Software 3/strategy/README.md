@@ -4,7 +4,7 @@ Strategy 🏗️
 
 <h2> 📑 Resumo </h2>
   
-**Diagrama UML**
+<h2> 🐧 Diagrama UML </h2>
 
 
 <p align="center">
