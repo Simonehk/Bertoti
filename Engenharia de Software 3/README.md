@@ -23,12 +23,13 @@ O material base encontra-se no site <strong> <a href="https://refactoring.guru">
 <h2> 📂 Conteúdo </h2>
 
 
-|                                | Strategy                         | Observer                         | Composite                         | Facade                         |
+|                                | Definição                         | O que resolve                         | Exemplo                         | Anti-padrão                         |
 |--------------------------------|----------------------------------|----------------------------------|-----------------------------------|-------------------------------|
-| **Anti-padrão**               | Conteúdo Strategy    | Conteúdo Observer    | Conteúdo Composite    | Conteúdo Facade   |
-| **Definição**                 | Conteúdo Strategy      | Conteúdo Observer      | Conteúdo Composite      | Conteúdo Facade     |
-| **O que resolve**             | Conteúdo Strategy  | Conteúdo Observer  | Conteúdo Composite  | Conteúdo Facade |
-| **Exemplo**                   | Conteúdo Strategy        | Conteúdo Observer        | Conteúdo Composite        | Conteúdo Facade       |
+| **Strategy**               | Strategy    | Strategy    |   |   |
+| **Observer**                 | Observer      | Observer      |       |     |
+| **Composite**             | Composite |  Composite  |  | |
+| **Facade**                   | Facade       | Facade       |        |      |
+| **Facade**                   | Facade       | Facade       |        |      |
 	
 <h2> 📚 Referências bibliográficas:  </h2>
 
