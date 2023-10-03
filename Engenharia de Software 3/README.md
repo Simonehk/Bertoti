@@ -9,7 +9,7 @@ O material base encontra-se no site <strong> <a href="https://refactoring.guru">
 </p>
 
 <p align="center">
-<a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203"> Strategy </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/observer"> Observer </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/composite"> Composite </a> • <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/facade"> Facade </a> <br>
+<a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/strategy"> Strategy </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/observer"> Observer </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/composite"> Composite </a> • <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/facade"> Facade </a> <br>
 <br>👍 <em><strong> Para cada caso apresentaremos um resumo, um diagrama UML e o respectivo código exemplo </strong> </em>👍
 </p>
 
@@ -23,12 +23,13 @@ O material base encontra-se no site <strong> <a href="https://refactoring.guru">
 <h2> 📂 Conteúdo </h2>
 
 
-|                                | Strategy                         | Observer                         | Composite                         | Facade                         |
+|                                | Definição                         | O que resolve                         | Exemplo                         | Anti-padrão                         |
 |--------------------------------|----------------------------------|----------------------------------|-----------------------------------|-------------------------------|
-| **Anti-padrão**               | Conteúdo Strategy    | Conteúdo Observer    | Conteúdo Composite    | Conteúdo Facade   |
-| **Definição**                 | Conteúdo Strategy      | Conteúdo Observer      | Conteúdo Composite      | Conteúdo Facade     |
-| **O que resolve**             | Conteúdo Strategy  | Conteúdo Observer  | Conteúdo Composite  | Conteúdo Facade |
-| **Exemplo**                   | Conteúdo Strategy        | Conteúdo Observer        | Conteúdo Composite        | Conteúdo Facade       |
+| **Strategy**               | Strategy    | Strategy    |   |   |
+| **Observer**                 | Observer      | Observer      |       |     |
+| **Composite**             | Composite |  Composite  |  | |
+| **Facade**                   | Facade       | Facade       |        |      |
+| **Facade**                   | Facade       | Facade       |        |      |
 	
 <h2> 📚 Referências bibliográficas:  </h2>
 

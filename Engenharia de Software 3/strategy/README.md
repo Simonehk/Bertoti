@@ -11,7 +11,7 @@ Strategy 👽
 </h2>
 
 <h1 align="center">
-  <img src="/Engenharia%20de%20Software%203/strategy/src/strategy.png">
+  <img src="/Engenharia%20de%20Software%203/strategy/strategy.png">
 </h1>
 
 👾 Simonehk.
