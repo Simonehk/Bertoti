@@ -1,4 +1,4 @@
-#Observer Pattern 🔎
+<h1>Observer Pattern 🔎 </h1>
 
 O **Observer Pattern** estabelece uma dependência de um-para-muitos entre os objetos/entidades. Logo, quando um objeto muda o seu estado **(Subject)**, os demais objetos dependentes **(Observers ou Listeners)** serão notificados e automaticamente atualizados.
 Este _design_ _pattern_ garante um baixo acoplamento no sistema. Pois:
