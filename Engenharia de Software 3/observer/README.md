@@ -26,6 +26,10 @@ Algumas interpretações comuns do RSI:
 
 O algoritmo gerará números randômicos e quando o mesmo for maior que 70 o usuário será notificado com **Overbought**. Caso o número seja menor que 30, a mensagem imprimida no console será **Oversold**.
 
+<h2>
+ Diagrama UML
+</h2>
+
 <h1 align="center">
   <img src="/Engenharia%20de%20Software%203/observer/observer.png">
 </h1>
