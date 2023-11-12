@@ -1,4 +1,9 @@
-###Composite
+## Facade
+
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%203/composite/compositeUml.png">
+</h1>
+
 
 Compor objetos em estruturas de árvore para representar hierarquias parte/todo. Composite permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos.
 
