@@ -1,5 +1,9 @@
 ## Singleton
 
+<h1 align="center">
+  <img src="/Engenharia%20de%20Software%203/singleton/singleton.png">
+</h1>
+
 Garantir que uma classe tenha somente uma instância no programa e fornecer um ponto de acesso global para a mesma.
 
 Somente uma instância?
@@ -21,6 +25,8 @@ lazy instiation > só ocorre a instanciação uma vez e quando for necessário.
 
 Curiosidade:
 Em uma entrevista, Erich Gamma mencionou que este seria o único padrão que ele removeria casso fosse lançar uma nova edição do livro.
+
+
 
 
 
