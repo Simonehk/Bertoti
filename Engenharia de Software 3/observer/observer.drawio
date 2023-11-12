@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="mJXNyY7nIPmPbSS4mhjI" name="Page-1">
-        <mxGraphModel dx="331" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="492" dy="246" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -17,7 +17,7 @@
                         <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="70" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ update(price: float): void&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="8">
+                <mxCell id="70" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ update(price: float): void&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="8" vertex="1">
                     <mxGeometry y="26" width="192.96969696969697" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="Subject" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#000000;fontSize=15;" parent="66" vertex="1">
@@ -25,13 +25,13 @@
                         <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="71" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#000000&quot;&gt;+ addObserver(observer: Observer): void&lt;br&gt;+ notifyAllObserver(): void&lt;/font&gt;&lt;div style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#000000&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px; color: rgb(0, 0, 0);&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="15">
+                <mxCell id="71" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#000000&quot;&gt;+ addObserver(observer: Observer): void&lt;br&gt;+ notifyAllObserver(): void&lt;/font&gt;&lt;div style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#000000&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px; color: rgb(0, 0, 0);&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="15" vertex="1">
                     <mxGeometry y="26" width="292" height="84" as="geometry"/>
                 </mxCell>
-                <mxCell id="63" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=blockThin;endFill=0;fontColor=#000000;strokeColor=#000000;dashed=1;" parent="66" source="8" target="15" edge="1">
+                <mxCell id="63" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontColor=#000000;strokeColor=#000000;startArrow=openThin;startFill=0;" parent="66" source="8" target="15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;fontColor=#000000;strokeColor=#000000;startArrow=diamondThin;startFill=0;strokeWidth=1.5;" parent="66" source="36" target="15" edge="1">
+                <mxCell id="52" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;fontColor=#000000;strokeColor=#000000;startArrow=none;startFill=0;strokeWidth=1.5;" parent="66" source="36" target="15" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="373.4400813548249" y="452.5542152466368" as="sourcePoint"/>
                     </mxGeometry>
@@ -57,7 +57,7 @@
                         <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="72" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ update(price: float): void&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="38">
+                <mxCell id="72" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ update(price: float): void&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#000000;" parent="38" vertex="1">
                     <mxGeometry y="26" width="192.97" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;fontColor=#000000;strokeColor=#000000;dashed=1;" parent="66" source="44" target="8" edge="1">
@@ -70,7 +70,7 @@
                         <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="73" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ update(price: float): void&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="44">
+                <mxCell id="73" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ update(price: float): void&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#000000;" parent="44" vertex="1">
                     <mxGeometry y="26" width="192.96969696969697" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="53" style="edgeStyle=none;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;strokeColor=#000000;" parent="66" source="2" target="32" edge="1">
@@ -85,7 +85,7 @@
                 <mxCell id="65" value="Objeto que está monitorando as mudanças do Subject" style="text;align=left;verticalAlign=bottom;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;strokeColor=#FFFFFF;" parent="66" vertex="1">
                     <mxGeometry x="65.0330303030303" y="605.0035874439462" width="385.93939393939394" height="43.587443946188344" as="geometry"/>
                 </mxCell>
-                <mxCell id="67" value="Observer" style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;strokeColor=#FFFFFF;fontSize=15;" parent="66" vertex="1">
+                <mxCell id="67" value="" style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;strokeColor=#FFFFFF;fontSize=15;" parent="66" vertex="1">
                     <mxGeometry x="205.0330303030303" y="18.00358744394623" width="385.93939393939394" height="43.587443946188344" as="geometry"/>
                 </mxCell>
             </root>
