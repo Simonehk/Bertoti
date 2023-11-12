@@ -78,9 +78,22 @@
         <li>getDescription(): String: Retorna a descrição da lista de tarefas.</li>
     </ul>
 
+<h3>🔺PrioritySortingStrategy (Observer):</h3>
+    <p><strong>Método:</strong></p>
+    <ul>
+        <li>sort(List<TaskComponent> tasks): Método que implementa a estratégia de ordenação, utilizando a interface TaskComponent e comparando as prioridades.</li>
+    </ul>
+    
+<h3>🔺TaskSortingStrategy (Interface):</h3>
+    <p><strong>Método:</strong></p>
+    <ul>
+        <li>sort(List<TaskComponent> tasks):  Método da interface que deve ser implementado por classes concretas que desejam fornecer estratégias de ordenação.</li>
+    </ul>
+
 <p>
 🔹 Padrão Observer serve para notificar a View sobre mudanças no Model. <br>
 🔹 Padrão Composite serve para tratar as tarefas individuais e as listas de tarefas de maneira uniforme.  <br>
 🔹 Controller age como intermediário entre Model e View, gerenciando as interações e atualizações.  <br>
 🔹 Observer (TaskListObserver) permite que a View seja notificada sempre que o Modelo é modificado.  <br>
+🔹 Padrão Strategy garante uma estratégia de ordenação por prioridade.  <br>
 </p>   
