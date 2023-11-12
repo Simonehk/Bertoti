@@ -1,0 +1,30 @@
+<mxfile host="65bd71144e">
+    <diagram id="jrP6Jl63FVt9lMmczW5Q" name="Page-1">
+        <mxGraphModel dx="239" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="38" value="&lt;b&gt;DatabaseConnetor&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fontSize=15;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-260" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="- instance: DatabaseConnector" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fontSize=15;fontColor=#000000;fillColor=none;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-220" width="260" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=15;fontColor=#000000;endArrow=none;endFill=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="40" target="39">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="440" y="-175"/>
+                            <mxPoint x="440" y="-210"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- DatabaseConnector()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ getInstance(): DatabaseConnector&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fontSize=15;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-200" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;fontSize=15;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="-290" width="380" height="160" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
