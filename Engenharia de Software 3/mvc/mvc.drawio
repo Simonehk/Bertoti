@@ -1,167 +1,193 @@
 <mxfile host="65bd71144e">
     <diagram id="Vc9yZKPAwbdCRDTP20tC" name="Page-1">
-        <mxGraphModel dx="2440" dy="1200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="1406" dy="1029" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="730" width="290" height="30" as="geometry"/>
+                    <mxGeometry x="21" y="774" width="290" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="760" width="290" height="40" as="geometry"/>
+                    <mxGeometry x="21" y="804" width="290" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="TaskModel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="730" width="180" height="30" as="geometry"/>
+                    <mxGeometry x="21" y="774" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="&lt;pre&gt;&lt;code style=&quot;font-size: 13px;&quot; class=&quot;!whitespace-pre hljs language-sql&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Helvetica&quot; color=&quot;#000000&quot;&gt;&lt;span class=&quot;hljs-operator&quot;&gt;-&lt;/span&gt; tasks: List&lt;span class=&quot;hljs-operator&quot;&gt;&amp;lt;&lt;/span&gt;TaskComponent&lt;span class=&quot;hljs-operator&quot;&gt;&amp;gt;&lt;/span&gt;            &lt;br&gt;&lt;span class=&quot;hljs-operator&quot;&gt;-&lt;/span&gt; observers: List&lt;span class=&quot;hljs-operator&quot;&gt;&amp;lt;&lt;/span&gt;TaskObserver&lt;span class=&quot;hljs-operator&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="765" width="210" height="30" as="geometry"/>
+                    <mxGeometry x="21" y="809" width="210" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="562" y="492" width="180" height="30" as="geometry"/>
+                    <mxGeometry x="546" y="579" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="562" y="522" width="180" height="30" as="geometry"/>
+                    <mxGeometry x="546" y="609" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="17" value="TaskObserver" style="text;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="562" y="492" width="180" height="30" as="geometry"/>
+                    <mxGeometry x="546" y="579" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="+ update(): void" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=2;fontSize=15;" parent="1" vertex="1">
-                    <mxGeometry x="562" y="522" width="180" height="30" as="geometry"/>
+                    <mxGeometry x="546" y="609" width="180" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="50" y="800" width="290" height="100" as="geometry"/>
+                <mxCell id="75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="21" y="844" width="290" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="77" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;+ addTask(task: TaskComponent): void   &lt;br/&gt;+ getTasks(): List&amp;lt;TaskComponent&amp;gt;       &lt;br/&gt;+ addObserver(observer: TaskObserver): void&lt;br/&gt;+ notifyObservers(): void &lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="50" y="800" width="290" height="100" as="geometry"/>
+                <mxCell id="77" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;+ addTask(task: TaskComponent): void   &lt;br/&gt;+ getTasks(): List&amp;lt;TaskComponent&amp;gt;       &lt;br/&gt;+ addObserver(observer: TaskObserver): void&lt;br/&gt;+ notifyObservers(): void &lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="21" y="844" width="290" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="470" y="820" width="330" height="30" as="geometry"/>
+                <mxCell id="78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="502" y="812" width="330" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="80" value="TaskView" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="470" y="820" width="330" height="30" as="geometry"/>
+                <mxCell id="80" value="TaskView" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="502" y="812" width="330" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="470" y="850" width="330" height="50" as="geometry"/>
+                <mxCell id="82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="502" y="842" width="330" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="83" value="&lt;pre&gt;&lt;code&gt;&lt;font color=&quot;#000000&quot; face=&quot;Helvetica&quot;&gt;+ displayTasks(tasks: List&amp;lt;TaskComponent&amp;gt;)&lt;/font&gt;&lt;/code&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="470" y="850" width="330" height="60" as="geometry"/>
+                <mxCell id="83" value="&lt;pre&gt;&lt;code&gt;&lt;font color=&quot;#000000&quot; face=&quot;Helvetica&quot;&gt;+ displayTasks(tasks: List&amp;lt;TaskComponent&amp;gt;)&lt;/font&gt;&lt;/code&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="502" y="842" width="330" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="84" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="33.5" y="457" width="290" height="30" as="geometry"/>
+                <mxCell id="84" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="31" y="540" width="247.5" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="33.5" y="487" width="290" height="40" as="geometry"/>
+                <mxCell id="85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="31" y="570" width="247.5" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="86" value="TaskController" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="33.5" y="457" width="289" height="30" as="geometry"/>
+                <mxCell id="86" value="TaskController" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="31" y="540" width="247" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="33.5" y="527" width="290" height="100" as="geometry"/>
+                <mxCell id="88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="31" y="610" width="247.5" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="120" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="89" target="83">
+                <mxCell id="120" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;" parent="1" source="89" target="83" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="126" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="89" target="5">
+                <mxCell id="126" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;" parent="1" source="89" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="89" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;+ addTask(task: TaskComponent): void&lt;br/&gt;+ updateView(): void&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="33.5" y="527" width="290" height="100" as="geometry"/>
+                <mxCell id="89" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;+ addTask(task: TaskComponent): void&lt;br/&gt;+ updateView(): void&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="31" y="610" width="247.5" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="350" y="29" width="330" height="30" as="geometry"/>
+                <mxCell id="94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="351" y="253" width="330" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="95" value="TaskComponent" style="text;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=3;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="350" y="29" width="330" height="30" as="geometry"/>
+                <mxCell id="95" value="TaskComponent" style="text;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=3;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="351" y="253" width="330" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="96" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="350" y="59" width="330" height="50" as="geometry"/>
+                <mxCell id="96" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="351" y="283" width="330" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="97" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;+ getDescription(): String&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=2;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="350" y="59" width="330" height="49" as="geometry"/>
+                <mxCell id="97" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;+ getDescription(): String&lt;br&gt;+ getPriority(): int&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=2;fontSize=15;spacing=0;" parent="1" vertex="1">
+                    <mxGeometry x="351" y="283" width="330" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="226" y="270" width="290" height="30" as="geometry"/>
+                <mxCell id="98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="283" y="376" width="177" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="226" y="300" width="290" height="40" as="geometry"/>
+                <mxCell id="99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="283" y="406" width="177" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="111" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=block;endFill=0;" edge="1" parent="1" source="100" target="97">
+                <mxCell id="111" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=block;endFill=0;" parent="1" source="100" target="97" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="100" value="Task" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="226" y="270" width="180" height="30" as="geometry"/>
+                <mxCell id="100" value="Task" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="283" y="376" width="176" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="101" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;- description: String&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="226" y="305" width="210" height="30" as="geometry"/>
+                <mxCell id="101" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;- description: String&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="283" y="411" width="175" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="226" y="340" width="290" height="56" as="geometry"/>
+                <mxCell id="102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="283" y="446" width="177" height="56" as="geometry"/>
                 </mxCell>
-                <mxCell id="103" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt; + getDescription(): String&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="226" y="340" width="290" height="48" as="geometry"/>
+                <mxCell id="104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="376" width="290" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="540" y="232" width="290" height="30" as="geometry"/>
+                <mxCell id="105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="406" width="290" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="540" y="262" width="290" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="110" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;dashed=1;strokeColor=#000000;endArrow=block;endFill=0;" edge="1" parent="1" source="106" target="97">
+                <mxCell id="110" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;dashed=1;strokeColor=#000000;endArrow=block;endFill=0;" parent="1" source="106" target="97" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="106" value="TaskList" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="540" y="232" width="180" height="30" as="geometry"/>
+                <mxCell id="106" value="TaskList" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="376" width="180" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="107" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;- tasks: List&amp;lt;TaskComponent&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="540" y="267" width="210" height="30" as="geometry"/>
+                <mxCell id="107" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;- tasks: List&amp;lt;TaskComponent&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="411" width="210" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="540" y="302" width="290" height="87" as="geometry"/>
+                <mxCell id="108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="446" width="290" height="87" as="geometry"/>
                 </mxCell>
-                <mxCell id="109" value="+ addTask(task: TaskComponent): void&#10;+ getDescription(): String" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="540" y="305" width="288" height="65" as="geometry"/>
+                <mxCell id="109" value="+ addTask(task: TaskComponent): void&lt;br&gt;+ getDescription(): String&lt;br&gt;+ getPriority(): int" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="449" width="288" height="65" as="geometry"/>
                 </mxCell>
-                <mxCell id="113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="487" y="660" width="330" height="30" as="geometry"/>
+                <mxCell id="113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="694" width="192" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=block;endFill=0;" edge="1" parent="1" source="114" target="18">
+                <mxCell id="117" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=block;endFill=0;" parent="1" source="114" target="18" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="114" value="TaskListObserver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="487" y="660" width="330" height="30" as="geometry"/>
+                <mxCell id="114" value="TaskListObserver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="694" width="200" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="115" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="487" y="690" width="330" height="50" as="geometry"/>
+                <mxCell id="123" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="121" target="114" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="546" y="784" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="116" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;- controller: TaskController&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="487" y="690" width="330" height="49" as="geometry"/>
+                <mxCell id="121" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;...&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="31" y="570" width="247.5" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="123" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="121" target="116">
+                <mxCell id="124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="724" width="192" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;+ update(): void&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="536" y="725" width="110" height="49" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="18" y="336" width="159" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;" parent="1" source="129" target="86" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="121" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;...&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="33.5" y="487" width="290" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="487" y="740" width="330" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="125" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;- update(): void&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="487" y="741" width="330" height="49" as="geometry"/>
-                </mxCell>
-                <mxCell id="127" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="17" y="112" width="159" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="134" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="129" target="86">
+                <mxCell id="135" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;" parent="1" source="129" target="97" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="135" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="129" target="97">
+                <mxCell id="129" value="App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+                    <mxGeometry x="18" y="336" width="158" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="149" value="&lt;pre style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Helvetica&quot;&gt;+ getDescription(): String&lt;br&gt;+ getPriority(): int&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;spacing=0;" vertex="1" parent="1">
+                    <mxGeometry x="283" y="449" width="175" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="150" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="123" y="106" width="284" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="151" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="123" y="136" width="284" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="152" value="TaskSortingStrategy" style="text;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="123" y="106" width="284" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="153" value="&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;+ sort(tasks: List&amp;lt;TaskComponent&amp;gt;): void &lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=2;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="123" y="136" width="284" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="154" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="528.5" y="106" width="293.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="155" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=block;endFill=0;" edge="1" source="156" target="151" parent="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="129" value="App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-                    <mxGeometry x="17" y="112" width="158" height="30" as="geometry"/>
+                <mxCell id="156" value="PrioritySortingStrategy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="528.5" y="106" width="293.5" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="136" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="5" y="5" width="836" height="985" as="geometry"/>
+                <mxCell id="157" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="528.5" y="136" width="293.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="159" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeColor=#000000;endArrow=none;endFill=0;startArrow=openThin;startFill=0;" edge="1" parent="1" source="153" target="95">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="158" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;+ sort(tasks: List&amp;lt;TaskComponent&amp;gt;): void &lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="528.5" y="137" width="292.5" height="49" as="geometry"/>
+                </mxCell>
+                <mxCell id="161" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="3" y="61" width="839" height="928" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
