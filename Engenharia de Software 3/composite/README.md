@@ -11,9 +11,6 @@ Faz mais sentido em estruturas que podem ser tratadas de forma hierarquica - cla
 
 Composite prioriza a composição ao invés de herança.
 
-Exemplo:
-Ao comprar um fardo de garrafinhas d'água, posso passar no caixa de supermercado uma garrafa por vez ou passar o fardo inteiro.
-Nesse exemplo, vemos que é possível tratar o fardo(estrutura) como um produto só, ou uma garrafinha como um produto só, também.
 
 
 
