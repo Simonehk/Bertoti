@@ -13,10 +13,10 @@
 </h2>
 
 
-- [x] Engenharia de Software 1
+- [x] <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%201"> Engenharia de Software I </a>
 
-- [x] Interação Humano Computador
+- [x] <a href="https://github.com/Simonehk/Bertoti/tree/main/IHC"> Interação Humano Computador </a>
 
-- [X] Engenharia de Software 3
+- [X] <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203"> Engenharia de Software III </a>
 
 <br><br>
