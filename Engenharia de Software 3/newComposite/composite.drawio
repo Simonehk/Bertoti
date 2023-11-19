@@ -1,0 +1,68 @@
+<mxfile host="65bd71144e">
+    <diagram id="6-Az4t-CK-rrU8GcaIO7" name="Page-1">
+        <mxGraphModel dx="1825" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="42" value="" style="group;container=1;fillColor=none;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="8" y="1" width="831" height="1051" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#000000&quot;&gt;ComponentFilm&lt;/font&gt;" style="swimlane;html=1;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f0a30a;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;strokeColor=#BD7000;fontColor=#000000;" parent="42" vertex="1">
+                    <mxGeometry x="278.67999999999995" y="307" width="188.89" height="97" as="geometry">
+                        <mxRectangle x="345" y="87" width="90" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot;&gt;+getNameFilm(): String&lt;br&gt;+getYearRelease(): int&lt;br&gt;+showInfo(): void&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2;fontSize=15;" parent="6" vertex="1">
+                    <mxGeometry y="26" width="188.89" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;fontSize=15;fontColor=#000000;endArrow=block;endFill=0;dashed=1;" parent="42" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="158.3899999999999" y="586" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;fontSize=15;fontColor=#000000;endArrow=block;endFill=0;dashed=1;" parent="42" source="57" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="616.3667198795183" y="558.0032549758248" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="42">
+                    <mxGeometry x="54.03" y="588.19" width="217" height="31.81" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="42">
+                    <mxGeometry x="54.03" y="620" width="217" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="42">
+                    <mxGeometry x="54.03" y="684" width="217" height="125" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot;&gt;+ nameFilm&lt;br&gt;+ yearRelease&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" parent="42" vertex="1">
+                    <mxGeometry x="54" y="620" width="217.03" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot;&gt;+ getNameFilm(): String&lt;br&gt;+ getYearRelease(): int&lt;br&gt;+ showInfo(): void&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="42">
+                    <mxGeometry x="54.03" y="684" width="217.03" height="98" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Film" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="42">
+                    <mxGeometry x="54" y="588.19" width="217.03" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="42">
+                    <mxGeometry x="438.05999999999995" y="588.19" width="217" height="31.81" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="42">
+                    <mxGeometry x="438.05999999999995" y="620" width="217" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot;&gt;+ nameCategory&lt;br&gt;+ descriptionCategory&lt;br&gt;+ componentFilm&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="42">
+                    <mxGeometry x="438.05999999999995" y="620" width="217.03" height="84" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;endArrow=classicThin;endFill=1;startArrow=diamondThin;startFill=0;" edge="1" parent="42" source="57" target="8">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="601" y="368"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="CategoryFilm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="42">
+                    <mxGeometry x="438.03" y="588.19" width="217.03" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
