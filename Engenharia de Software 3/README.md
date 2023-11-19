@@ -9,7 +9,7 @@ O material base encontra-se no site <strong> <a href="https://refactoring.guru">
 </p>
 
 <p align="center">
-<a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/strategy"> Strategy </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/observer"> Observer </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/composite"> Composite </a> • <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/facade"> Facade </a>  • <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/singleton"> Singleton </a>  • <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/mvc"> MVC </a><br>
+<a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/strategy"> Strategy </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/observer"> Observer </a>• <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/newComposite"> Composite </a> • <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/facade"> Facade </a>  • <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/singleton"> Singleton </a>  • <a href="https://github.com/Simonehk/Bertoti/tree/main/Engenharia%20de%20Software%203/mvc"> MVC </a><br>
 <br>👍 <em><strong> Para cada caso apresentaremos um diagrama UML e o respectivo código exemplo </strong> </em>👍
 </p>
 
