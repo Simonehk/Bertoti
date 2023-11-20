@@ -44,9 +44,6 @@
                 <mxCell id="110" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;dashed=1;strokeColor=#000000;endArrow=block;endFill=0;" parent="1" source="106" target="97" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="194" value="" style="edgeStyle=none;html=1;fontSize=11;" parent="1" source="106" target="149" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="106" value="SaleStrategy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=15;" parent="1" vertex="1">
                     <mxGeometry x="258" y="637" width="222" height="30" as="geometry"/>
                 </mxCell>
@@ -152,9 +149,6 @@
                 <mxCell id="187" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;+ setI(Tickets tickets)&lt;br&gt;+ update(List l)&lt;br&gt;+ printInfoFilm()&lt;br&gt;+ printTypeStudent()&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=15;" parent="1" vertex="1">
                     <mxGeometry x="15" y="180.5" width="292.5" height="90.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="193" style="edgeStyle=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="97" target="97" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="196" value="&lt;pre style=&quot;font-size: 11px;&quot;&gt;&lt;pre style=&quot;font-size: 11px; font-style: italic;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;+ calculateDiscount(price: double): double&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=11;spacing=0;" parent="1" vertex="1">
                     <mxGeometry x="259" y="670" width="220" height="50" as="geometry"/>
                 </mxCell>
@@ -195,7 +189,7 @@
                     <mxGeometry x="780" y="200" width="288" height="82" as="geometry"/>
                 </mxCell>
                 <mxCell id="213" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=none;" parent="1" vertex="1">
-                    <mxGeometry x="-41" y="6" width="1234" height="827" as="geometry"/>
+                    <mxGeometry x="-33" y="6" width="1226" height="782" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
